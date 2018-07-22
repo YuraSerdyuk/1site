@@ -1,0 +1,28 @@
+{
+  "name": "1site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "engines": {
+    "node": "8.9.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuraSerdyuk/1site.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuraSerdyuk/1site/issues"
+  },
+  "homepage": "https://github.com/YuraSerdyuk/1site#readme"
+}
